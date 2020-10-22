@@ -69,7 +69,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         let long = currentLocation.coordinate.longitude
         let lat = currentLocation.coordinate.latitude
         
-        let apiKey = "50004d21383c4d9b96b33454202010"
+        let apiKey = "YOUR API KEY HERE"
         
         let url = "http://api.weatherapi.com/v1/forecast.json?key=\(apiKey)&q=\(lat),\(long)&days=5"
         print(url)
