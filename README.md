@@ -1,5 +1,5 @@
 # WeatherAppSwift
-Weather App for current user's location
+Weather App for current user's location adn 3 day forecast
 
 # Installation
 
