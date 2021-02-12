@@ -1,7 +1,7 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/version-1.2-green.svg)
-![Header](https://img.shields.io/badge/swift-4.2-orange.svg)
-![Header](https://img.shields.io/badge/xCode-10.0-blue.svg)
+![Header](https://img.shields.io/badge/version-1.0-green.svg)
+![Header](https://img.shields.io/badge/swift-5.2-orange.svg)
+![Header](https://img.shields.io/badge/xCode-12.0-blue.svg)
 
 # WeatherAppSwift
 Weather App for current user's location adn 3 day forecast
